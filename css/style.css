@@ -43,6 +43,9 @@ body {
     color: var(--color-2E2F42);
 }
 
+.fourth-section {
+    background-color: var(--color-f4f4fd);
+}
 
 .button {
     font-family: "Roboto", sans-serif;
