@@ -18,7 +18,7 @@ body {
     background-color: var(--color-2E2F42);
 }
 
-.title-h1 {
+.banner .title-h1 {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
