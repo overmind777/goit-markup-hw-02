@@ -21,7 +21,7 @@ body {
 .button {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
-    font-style: 16px;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: var(--color-4d5ae5);
@@ -44,7 +44,7 @@ body {
     text-transform: uppercase;
 }
 
-.link {
+.list-link, .link {
     text-decoration: none;
 }
 
@@ -100,4 +100,10 @@ body {
 
 .footer .logo-studio-footyer {
     color: #f4f4fd;
+}
+
+.footer .footer-paragraph {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--color-f4f4fd);
 }
