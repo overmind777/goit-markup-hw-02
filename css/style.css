@@ -18,7 +18,11 @@ body {
     color: var(--color-434455);
 }
 
-.button {
+.section {
+    background-color: var(--color-2E2F42);
+}
+
+.buttons {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
