@@ -18,7 +18,7 @@ body {
     background-color: var(--color-2E2F42);
 }
 
-.banner .title-h1 {
+.title-h1 {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -26,13 +26,48 @@ body {
     color: var(--color-FFFFFF);
 }
 
-.title-h2 {
+.main-section.title-h2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--color-2E2F42);
+}
+
+.second-selection.title-h2 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--color-2E2F42);
+}
+
+.third-selection.title-h2 {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--color-2E2F42);
+}
+
+.fourth-section.title-h2 {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--color-2E2F42);
+}
+
+.fourth-section.title-h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--color-2E2F42);
+    
 }
 
 .title-h3 {
@@ -121,14 +156,6 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--color-434455);
-}
-
-.title-h2 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: var(--color-2E2F42);
 }
 
 .paragraph {
