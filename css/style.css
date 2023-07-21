@@ -14,6 +14,10 @@ body {
     color: var(--color-434455);
 }
 
+.banner {
+    background-color: var(--color-2E2F42);
+}
+
 .title-h1 {
     font-size: 56px;
     line-height: 1.07;
@@ -22,7 +26,7 @@ body {
     color: var(--color-FFFFFF);
 }
 
-.title-h2-hiden {
+.title-h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -44,6 +48,21 @@ body {
 
 .button:hover, .button:focus {
     color: var(--color-FFFFFF);
+    background-color: var(--color-404bbf);
+}
+
+.button-banner {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--color-FFFFFF);
+    background-color: var(--color-4d5ae5);
+    cursor: pointer;
+}
+
+.button-banner:hover, .button-banner:focus {
     background-color: var(--color-404bbf);
 }
 
