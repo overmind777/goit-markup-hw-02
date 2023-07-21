@@ -18,9 +18,20 @@ body {
     color: var(--color-434455);
 }
 
+.first-section {
+    background-color: var(--color-2E2F42);
+}
+
+.title-h1 {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: var(--color-FFFFFF);
+}
+
 
 .button {
-    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
