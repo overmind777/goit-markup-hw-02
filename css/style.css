@@ -26,7 +26,7 @@ body {
     color: var(--color-FFFFFF);
 }
 
-.main-section.list.link.title-h2 {
+.main-section .title-h2 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -34,7 +34,7 @@ body {
     color: var(--color-2E2F42);
 }
 
-.second-selection.title-h2 {
+.second-selection .title-h2 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -42,7 +42,7 @@ body {
     color: var(--color-2E2F42);
 }
 
-.third-selection.title-h2 {
+.third-selection .title-h2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -51,7 +51,7 @@ body {
     color: var(--color-2E2F42);
 }
 
-.fourth-section.title-h2 {
+.fourth-section .title-h2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -60,7 +60,7 @@ body {
     color: var(--color-2E2F42);
 }
 
-.fourth-section.list.title-h3 {
+.fourth-section .title-h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
