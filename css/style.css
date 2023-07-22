@@ -55,6 +55,10 @@ body {
     background-color: var(--color-f4f4fd);
 }
 
+.fourth-list {
+    background-color: var(--color-FFFFFF);
+}
+
 .button {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
