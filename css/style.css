@@ -51,14 +51,6 @@ body {
     color: var(--color-2E2F42);
 }
 
-.forth-third-title {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: var(--color-2E2F42);
-}
-
 .fourth {
     background-color: var(--color-f4f4fd);
 }
