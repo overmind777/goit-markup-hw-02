@@ -26,13 +26,13 @@ body {
     color: var(--color-FFFFFF);
 }
 
-/* .second-title {
+.portfolio-second-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--color-2E2F42);
-} */
+}
 
 .second-title {
     font-size: 36px;
@@ -51,7 +51,7 @@ body {
     color: var(--color-2E2F42);
 }
 
-.fourth-section {
+.fourth {
     background-color: var(--color-f4f4fd);
 }
 
