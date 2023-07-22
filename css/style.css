@@ -43,7 +43,7 @@ body {
     color: var(--color-2E2F42);
 }
 
-.third-title {
+.third-title, .fourth .third-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
